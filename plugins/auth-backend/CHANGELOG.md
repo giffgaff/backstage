@@ -1,5 +1,23 @@
 # @backstage/plugin-auth-backend
 
+## 0.7.0
+
+### Minor Changes
+
+- 6e92ee6267: Add new authentication provider to support the oauth2-proxy.
+
+  **BREAKING** The `AuthHandler` requires now an `AuthResolverContext` parameter. This aligns with the
+  behavior of the `SignInResolver`.
+
+### Patch Changes
+
+- f815b7e4a4: build(deps): bump `@google-cloud/firestore` from 4.15.1 to 5.0.2
+- Updated dependencies
+  - @backstage/backend-common@0.10.4
+  - @backstage/config@0.1.13
+  - @backstage/catalog-model@0.9.10
+  - @backstage/catalog-client@0.5.5
+
 ## 0.7.0-next.0
 
 ### Minor Changes

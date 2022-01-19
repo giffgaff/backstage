@@ -1,5 +1,15 @@
 # @techdocs/cli
 
+## 0.8.11
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.10.4
+  - @backstage/config@0.1.13
+  - @backstage/techdocs-common@0.11.4
+  - @backstage/catalog-model@0.9.10
+
 ## 0.8.11-next.0
 
 ### Patch Changes

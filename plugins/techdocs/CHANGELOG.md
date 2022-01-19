@@ -1,5 +1,22 @@
 # @backstage/plugin-techdocs
 
+## 0.12.15
+
+### Patch Changes
+
+- 51fbedc445: Migrated usage of deprecated `IdentityApi` methods.
+- 29710c91c2: use lighter color for block quotes and horizontal rulers
+- Updated dependencies
+  - @backstage/core-components@0.8.5
+  - @backstage/integration@0.7.2
+  - @backstage/plugin-search@0.5.6
+  - @backstage/core-plugin-api@0.6.0
+  - @backstage/plugin-catalog@0.7.9
+  - @backstage/config@0.1.13
+  - @backstage/plugin-catalog-react@0.6.12
+  - @backstage/catalog-model@0.9.10
+  - @backstage/integration-react@0.1.19
+
 ## 0.12.15-next.0
 
 ### Patch Changes

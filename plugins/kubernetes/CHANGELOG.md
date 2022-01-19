@@ -1,5 +1,18 @@
 # @backstage/plugin-kubernetes
 
+## 0.5.5
+
+### Patch Changes
+
+- 51fbedc445: Migrated usage of deprecated `IdentityApi` methods.
+- Updated dependencies
+  - @backstage/core-components@0.8.5
+  - @backstage/core-plugin-api@0.6.0
+  - @backstage/config@0.1.13
+  - @backstage/plugin-catalog-react@0.6.12
+  - @backstage/catalog-model@0.9.10
+  - @backstage/plugin-kubernetes-common@0.2.2
+
 ## 0.5.5-next.0
 
 ### Patch Changes
