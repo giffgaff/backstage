@@ -39,7 +39,7 @@
     "@material-ui/lab": "4.0.0-alpha.57",
     "lodash": "^4.17.21",
     "luxon": "^2.0.2",
-    "qs": "^6.10.1",
+    "qs": "^6.10.3",
     "react-use": "^17.2.4"
   },
   "peerDependencies": {
