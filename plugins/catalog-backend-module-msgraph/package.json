@@ -39,7 +39,7 @@
     "node-fetch": "^2.6.1",
     "p-limit": "^3.0.2",
     "winston": "^3.2.1",
-    "qs": "^6.9.4"
+    "qs": "^6.10.3"
   },
   "devDependencies": {
     "@backstage/backend-common": "^0.10.4-next.0",
