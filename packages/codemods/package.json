@@ -33,7 +33,7 @@
   "dependencies": {
     "@backstage/cli-common": "0.1.6",
     "@backstage/core-app-api": "*",
-    "@backstage/core-components": "*",
+    "@backstage/core-components": "0.12.4",
     "@backstage/core-plugin-api": "*",
     "chalk": "^4.0.0",
     "jscodeshift": "^0.13.0",
