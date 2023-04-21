@@ -65,7 +65,7 @@
     "luxon": "^2.0.2",
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.1",
-    "nunjucks": "^3.2.3",
+    "nunjucks": "^3.2.4",
     "octokit-plugin-create-pull-request": "^3.10.0",
     "uuid": "^8.2.0",
     "winston": "^3.2.1",
