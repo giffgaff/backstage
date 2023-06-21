@@ -29,7 +29,7 @@
     "clean": "backstage-cli clean"
   },
   "dependencies": {
-    "@azure/msal-node": "^1.1.0",
+    "@azure/msal-node": "^1.14.6",
     "@backstage/catalog-model": "^0.9.10-next.0",
     "@backstage/config": "^0.1.13-next.0",
     "@backstage/plugin-catalog-backend": "^0.21.0-next.0",
