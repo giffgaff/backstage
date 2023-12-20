@@ -33,7 +33,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "4.0.0-alpha.57",
     "@material-ui/pickers": "^3.3.10",
-    "@testing-library/jest-dom": "^5.10.1",
+    "@testing-library/jest-dom": "^5.16.5",
     "luxon": "^2.0.2",
     "material-ui-search-bar": "^1.0.0",
     "react-hook-form": "^7.13.0",
@@ -46,7 +46,7 @@
   "devDependencies": {
     "@backstage/cli": "^0.12.0-next.0",
     "@backstage/dev-utils": "^0.2.18-next.0",
-    "@testing-library/jest-dom": "^5.10.1",
+    "@testing-library/jest-dom": "^5.16.5",
     "cross-fetch": "^3.0.6"
   },
   "files": [
