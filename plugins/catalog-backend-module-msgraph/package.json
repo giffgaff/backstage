@@ -38,7 +38,7 @@
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
     "p-limit": "^3.0.2",
-    "winston": "^3.2.1",
+    "winston": "^3.3.4",
     "qs": "^6.9.4"
   },
   "devDependencies": {
