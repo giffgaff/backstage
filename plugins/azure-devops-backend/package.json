@@ -24,11 +24,11 @@
     "@backstage/config": "^0.1.13-next.0",
     "@backstage/plugin-azure-devops-common": "^0.2.0",
     "@types/express": "^4.17.6",
-    "azure-devops-node-api": "^11.0.1",
+    "azure-devops-node-api": "^14.0.1",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
     "p-limit": "^3.1.0",
-    "winston": "^3.2.1",
+    "winston": "^3.3.4",
     "yn": "^4.0.0"
   },
   "devDependencies": {
