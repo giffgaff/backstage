@@ -30,7 +30,7 @@
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
     "jenkins": "^0.28.1",
-    "winston": "^3.2.1",
+    "winston": "^3.3.4",
     "yn": "^4.0.0"
   },
   "devDependencies": {
