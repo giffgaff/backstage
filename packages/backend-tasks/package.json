@@ -39,7 +39,7 @@
     "luxon": "^2.0.2",
     "node-abort-controller": "^3.0.1",
     "uuid": "^8.0.0",
-    "winston": "^3.2.1",
+    "winston": "^3.3.4",
     "zod": "^3.9.5"
   },
   "devDependencies": {
