@@ -49,7 +49,7 @@
     "@rjsf/core": "^3.2.1",
     "@rjsf/material-ui": "^3.2.1",
     "classnames": "^2.2.6",
-    "git-url-parse": "^11.6.0",
+    "git-url-parse": "^12.0.0",
     "humanize-duration": "^3.25.1",
     "immer": "^9.0.1",
     "json-schema": "^0.4.0",
