@@ -40,7 +40,7 @@
     "graphql-tag": "^2.11.0",
     "graphql-type-json": "^0.3.2",
     "node-fetch": "^2.6.1",
-    "winston": "^3.2.1"
+    "winston": "^3.3.4"
   },
   "devDependencies": {
     "@backstage/cli": "^0.12.0-next.0",
