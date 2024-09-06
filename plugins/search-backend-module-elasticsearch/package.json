@@ -27,7 +27,7 @@
     "aws-sdk": "^2.948.0",
     "elastic-builder": "^2.16.0",
     "lodash": "^4.17.21",
-    "winston": "^3.2.1"
+    "winston": "^3.3.4"
   },
   "devDependencies": {
     "@backstage/backend-common": "^0.10.4-next.0",
