@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@backstage/catalog-model": "^0.9.10-next.0",
-    "@kubernetes/client-node": "^0.16.0"
+    "@kubernetes/client-node": "^0.18.1"
   },
   "devDependencies": {
     "@backstage/cli": "^0.12.0-next.0"
