@@ -50,7 +50,7 @@
     "react-use": "^17.2.4",
     "recharts": "^1.8.5",
     "regression": "^2.0.1",
-    "yup": "^0.32.9"
+    "yup": "^1.0.0"
   },
   "peerDependencies": {
     "@types/react": "^16.13.1 || ^17.0.0",
