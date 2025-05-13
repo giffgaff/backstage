@@ -44,7 +44,7 @@
     "node-fetch": "^2.6.1",
     "typescript-json-schema": "^0.52.0",
     "yaml": "^1.9.2",
-    "yup": "^0.32.9"
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.7",
